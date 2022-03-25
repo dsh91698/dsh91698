@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Dimitrii
-#### Just another JS frontend developer wannabe
+####  Just another JS frontend developer wannabe
 
 ---
 
-Skills: JS / HTML / CSS / 
+Skills: JS / HTML / CSS 
 
 ---
 
